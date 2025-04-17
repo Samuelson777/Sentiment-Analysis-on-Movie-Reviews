@@ -29,6 +29,10 @@ The dataset used for this project is the IMDb Movie Reviews dataset, which can b
 | F1-Score  | 0.87               | 0.86               | 0.86     | 0.86          | 0.86             |  |  |
 | Support   | 2485               | 2515               | 5000     | 5000          | 5000             |  |  |
 |           |                    |                    |          |               |                  |  |  |
+|           |                    |                    |          |               |                  |  |  |
+|           |                    |                    |          |               |                  |  |  |
+|           |                    |                    |          |               |                  |  |  |
+|           |                    |                    |          |               |                  |  |  |
 
 ## Confusion Matrix
 
