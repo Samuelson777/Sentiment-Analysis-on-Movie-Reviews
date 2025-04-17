@@ -22,17 +22,13 @@ The dataset used for this project is the IMDb Movie Reviews dataset, which can b
 
 ## Evaluation Results
 
-| Metric    | Class 0 (Negative) | Class 1 (Positive) | Accuracy | Macro Average | Weighted Average |  |  |
-| --------- | ------------------ | ------------------ | -------- | ------------- | ---------------- |  |  |
-| Precision | 0.85               | 0.88               | null     | 0.86          | 0.86             |  |  |
-| Recall    | 0.88               | 0.85               | null     | 0.86          | 0.86             |  |  |
-| F1-Score  | 0.87               | 0.86               | 0.86     | 0.86          | 0.86             |  |  |
-| Support   | 2485               | 2515               | 5000     | 5000          | 5000             |  |  |
-|           |                    |                    |          |               |                  |  |  |
-|           |                    |                    |          |               |                  |  |  |
-|           |                    |                    |          |               |                  |  |  |
-|           |                    |                    |          |               |                  |  |  |
-|           |                    |                    |          |               |                  |  |  |
+| Metric    | Class 0 (Negative) | Class 1 (Positive) | Accuracy | Macro Average | Weighted Average |
+| --------- | ------------------ | ------------------ | -------- | ------------- | ---------------- | 
+| Precision | 0.85               | 0.88               | null     | 0.86          | 0.86             | 
+| Recall    | 0.88               | 0.85               | null     | 0.86          | 0.86             | 
+| F1-Score  | 0.87               | 0.86               | 0.86     | 0.86          | 0.86             | 
+| Support   | 2485               | 2515               | 5000     | 5000          | 5000             | 
+|           |                    |                    |          |               |                  | 
 
 ## Confusion Matrix
 
