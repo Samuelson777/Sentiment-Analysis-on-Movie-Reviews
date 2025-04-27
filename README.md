@@ -44,3 +44,6 @@ The dataset used for this project is the IMDb Movie Reviews dataset, which can b
 ## Conclusion
 
 In this project, we developed a sentiment analysis tool that classifies movie reviews as positive or negative using the IMDb dataset. We successfully processed raw text data, applied TF-IDF for feature extraction, and trained a Multinomial Naive Bayes classifier, achieving satisfactory performance metrics. The project included a user-friendly command-line interface for real-time predictions. Future enhancements could involve using advanced models, hyperparameter tuning, and deploying a web application to broaden accessibility and application scope.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Sentiment-Analysis-on-Movie-Reviews/blob/main/LICENSE) file for details.
